@@ -40,10 +40,6 @@ class Program
                 Console.WriteLine("Login failed. Please check your username and password.");
             }
         }
-        catch (ArgumentException ex)
-        {
-            Console.WriteLine($"Error: {ex.Message}");
-        }
         catch (Exception ex)
         {
             Console.WriteLine($"Unhandled Exception: {ex.Message}");
