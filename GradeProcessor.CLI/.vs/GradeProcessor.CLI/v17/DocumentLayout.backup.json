@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PNW_checkout\\Downloads\\GradeProcessor.CLI\\GradeProcessor.CLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E615CC1B-12BC-45F0-9EFF-55252E296FB1}|GradeProcessor.Tests\\GradeProcessor.Tests.csproj|c:\\users\\pnw_checkout\\downloads\\gradeprocessor.cli\\gradeprocessor.cli\\gradeprocessor.tests\\gradeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615CC1B-12BC-45F0-9EFF-55252E296FB1}|GradeProcessor.Tests\\GradeProcessor.Tests.csproj|solutionrelative:gradeprocessor.tests\\gradeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2EB0E0-82BD-46E7-A3BC-D40CF943008D}|GradeProcessor.CLI\\GradeProcessor.CLI.csproj|c:\\users\\pnw_checkout\\downloads\\gradeprocessor.cli\\gradeprocessor.cli\\gradeprocessor.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2EB0E0-82BD-46E7-A3BC-D40CF943008D}|GradeProcessor.CLI\\GradeProcessor.CLI.csproj|solutionrelative:gradeprocessor.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B0821D-E2B1-4EB3-AB25-9151133031CD}|GradeProcessor.Core\\GradeProcessor.Core.csproj|c:\\users\\pnw_checkout\\downloads\\gradeprocessor.cli\\gradeprocessor.cli\\gradeprocessor.core\\gradeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B0821D-E2B1-4EB3-AB25-9151133031CD}|GradeProcessor.Core\\GradeProcessor.Core.csproj|solutionrelative:gradeprocessor.core\\gradeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\PNW_checkout\\Downloads\\GradeProcessor.CLI\\GradeProcessor.CLI\\GradeProcessor.Tests\\GradeProcessor.cs",
+              "RelativeDocumentMoniker": "GradeProcessor.Tests\\GradeProcessor.cs",
+              "ToolTip": "C:\\Users\\PNW_checkout\\Downloads\\GradeProcessor.CLI\\GradeProcessor.CLI\\GradeProcessor.Tests\\GradeProcessor.cs",
+              "RelativeToolTip": "GradeProcessor.Tests\\GradeProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:40:58.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradeProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\PNW_checkout\\Downloads\\GradeProcessor.CLI\\GradeProcessor.CLI\\GradeProcessor.Core\\GradeProcessor.cs",
+              "RelativeDocumentMoniker": "GradeProcessor.Core\\GradeProcessor.cs",
+              "ToolTip": "C:\\Users\\PNW_checkout\\Downloads\\GradeProcessor.CLI\\GradeProcessor.CLI\\GradeProcessor.Core\\GradeProcessor.cs",
+              "RelativeToolTip": "GradeProcessor.Core\\GradeProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:40:15.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PNW_checkout\\Downloads\\GradeProcessor.CLI\\GradeProcessor.CLI\\GradeProcessor.CLI\\Program.cs",
+              "RelativeDocumentMoniker": "GradeProcessor.CLI\\Program.cs",
+              "ToolTip": "C:\\Users\\PNW_checkout\\Downloads\\GradeProcessor.CLI\\GradeProcessor.CLI\\GradeProcessor.CLI\\Program.cs",
+              "RelativeToolTip": "GradeProcessor.CLI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:39:42.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
