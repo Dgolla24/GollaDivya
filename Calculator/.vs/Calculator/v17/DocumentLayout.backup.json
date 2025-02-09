@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PNW_checkout\\Downloads\\Calculator\\Calculator\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{996E6746-D400-4DC6-8410-5713D981DC69}|Calculator\\Calculator.csproj|c:\\users\\pnw_checkout\\downloads\\calculator\\calculator\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996E6746-D400-4DC6-8410-5713D981DC69}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBB7341-8DF1-43DF-8E26-50E8FC6767DA}|Calculator.Core\\Calculator.Core.csproj|c:\\users\\pnw_checkout\\downloads\\calculator\\calculator\\calculator\\calculator.core\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBB7341-8DF1-43DF-8E26-50E8FC6767DA}|Calculator.Core\\Calculator.Core.csproj|solutionrelative:calculator.core\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368DB42D-7294-4A14-BEAC-38778497820F}|Calculator.Tests\\Calculator.Tests.csproj|c:\\users\\pnw_checkout\\downloads\\calculator\\calculator\\calculator\\calculator.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368DB42D-7294-4A14-BEAC-38778497820F}|Calculator.Tests\\Calculator.Tests.csproj|solutionrelative:calculator.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\PNW_checkout\\Downloads\\Calculator\\Calculator\\Calculator\\Calculator.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "Calculator.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\PNW_checkout\\Downloads\\Calculator\\Calculator\\Calculator\\Calculator.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "Calculator.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:32:09.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\PNW_checkout\\Downloads\\Calculator\\Calculator\\Calculator\\Calculator.Core\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.Core\\Calculator.cs",
+              "ToolTip": "C:\\Users\\PNW_checkout\\Downloads\\Calculator\\Calculator\\Calculator\\Calculator.Core\\Calculator.cs",
+              "RelativeToolTip": "Calculator.Core\\Calculator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:18:05.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PNW_checkout\\Downloads\\Calculator\\Calculator\\Calculator\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\PNW_checkout\\Downloads\\Calculator\\Calculator\\Calculator\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:15:54.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
